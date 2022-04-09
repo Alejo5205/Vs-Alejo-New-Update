@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				176
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Alejo in flames dancing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				175
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Alejo in flames left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				67
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Alejo in flames down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				176
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Alejo in flames up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				94
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Alejo in flames right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Alejo in flames",
+	"position": [
+		150,
+		30
+	],
+	"healthicon": "AlejoInFlames",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-270,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "Alejo",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stageAlejo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"alejo",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"hot fire",
+			"Alejo",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

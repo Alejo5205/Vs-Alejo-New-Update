@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		30
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-26,
+				0
+			],
+			"loop_name": "Alejo0",
+			"idle_name": "Alejo stop"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-20,
+				0
+			],
+			"loop_name": "Alejo excited0",
+			"idle_name": "Alejo excited stop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-25,
+				0
+			],
+			"loop_name": "Alejo angry0",
+			"idle_name": "Alejo angry stop"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-29,
+				0
+			],
+			"loop_name": "Alejo shock0",
+			"idle_name": "Alejo shock stop"
+		},
+		{
+			"idle_offsets": [
+				-28,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "Alejo confused stop",
+			"loop_name": "Alejo confused0"
+		},
+		{
+			"loop_offsets": [
+				-28,
+				0
+			],
+			"anim": "confused2",
+			"idle_offsets": [
+				-28,
+				0
+			],
+			"loop_name": "Alejo confused stop",
+			"idle_name": "Alejo confused stop"
+		}
+	],
+	"image": "Alejo_Dialogue"
+}

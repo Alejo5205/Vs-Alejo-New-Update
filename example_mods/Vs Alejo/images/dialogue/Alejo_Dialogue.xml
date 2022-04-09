@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alejo_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alejo0000" x="0" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo0001" x="0" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo0002" x="353" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo0003" x="353" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo0004" x="706" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo0005" x="706" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo angry0000" x="1059" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo angry0001" x="1059" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo angry0002" x="1412" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo angry0003" x="1412" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo angry0004" x="1765" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo angry0005" x="1765" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo angry stop0000" x="2118" y="0" width="280" height="518"/>
+	<SubTexture name="Alejo angry stop0001" x="2118" y="0" width="280" height="518"/>
+	<SubTexture name="Alejo confused0000" x="2398" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo confused0001" x="2398" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo confused0002" x="2751" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo confused0003" x="2751" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo confused0004" x="3104" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo confused0005" x="3104" y="0" width="353" height="534"/>
+	<SubTexture name="Alejo confused stop0000" x="3457" y="0" width="303" height="518"/>
+	<SubTexture name="Alejo confused stop0001" x="3457" y="0" width="303" height="518"/>
+	<SubTexture name="Alejo confused stop0002" x="3760" y="0" width="303" height="518"/>
+	<SubTexture name="Alejo confused stop0003" x="3760" y="0" width="303" height="518"/>
+	<SubTexture name="Alejo confused stop0004" x="0" y="534" width="303" height="518"/>
+	<SubTexture name="Alejo confused stop0005" x="0" y="534" width="303" height="518"/>
+	<SubTexture name="Alejo excited0000" x="303" y="534" width="429" height="534"/>
+	<SubTexture name="Alejo excited0001" x="303" y="534" width="429" height="534"/>
+	<SubTexture name="Alejo excited0002" x="732" y="534" width="429" height="534"/>
+	<SubTexture name="Alejo excited0003" x="732" y="534" width="429" height="534"/>
+	<SubTexture name="Alejo excited0004" x="1161" y="534" width="429" height="534"/>
+	<SubTexture name="Alejo excited0005" x="1161" y="534" width="429" height="534"/>
+	<SubTexture name="Alejo excited stop0000" x="1590" y="534" width="403" height="518"/>
+	<SubTexture name="Alejo excited stop0001" x="1590" y="534" width="403" height="518"/>
+	<SubTexture name="Alejo shock0000" x="1993" y="534" width="353" height="534"/>
+	<SubTexture name="Alejo shock0001" x="1993" y="534" width="353" height="534"/>
+	<SubTexture name="Alejo shock0002" x="2346" y="534" width="353" height="534"/>
+	<SubTexture name="Alejo shock0003" x="2346" y="534" width="353" height="534"/>
+	<SubTexture name="Alejo shock0004" x="2699" y="534" width="353" height="534"/>
+	<SubTexture name="Alejo shock0005" x="2699" y="534" width="353" height="534"/>
+	<SubTexture name="Alejo shock stop0000" x="3052" y="534" width="280" height="518"/>
+	<SubTexture name="Alejo shock stop0001" x="3052" y="534" width="280" height="518"/>
+	<SubTexture name="Alejo stop0000" x="3332" y="534" width="280" height="518"/>
+	<SubTexture name="Alejo stop0001" x="3332" y="534" width="280" height="518"/>
+</TextureAtlas>

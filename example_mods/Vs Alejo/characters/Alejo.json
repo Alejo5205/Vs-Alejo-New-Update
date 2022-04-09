@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				54
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Alejo left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-40
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Alejo down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				74
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Alejo up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				54
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Alejo right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				54
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Alejo dancing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Alejo",
+	"position": [
+		170,
+		70
+	],
+	"healthicon": "Alejo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

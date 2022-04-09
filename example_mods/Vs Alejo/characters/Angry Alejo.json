@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-27,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Angry Alejo left"
+		},
+		{
+			"offsets": [
+				32,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Angry Alejo down"
+		},
+		{
+			"offsets": [
+				24,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Angry Alejo up"
+		},
+		{
+			"offsets": [
+				-43,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Angry Alejo right"
+		},
+		{
+			"offsets": [
+				0,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Angry Alejo dancing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Angry Alejo",
+	"position": [
+		170,
+		70
+	],
+	"healthicon": "AngryAlejo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "!!!",
+			"boxState": "angry",
+			"portrait": "BFAlejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "!!!",
+			"boxState": "angry",
+			"portrait": "GFAlejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "wow they are good?",
+			"boxState": "angry",
+			"portrait": "alejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "yea",
+			"boxState": "normal",
+			"portrait": "BFAlejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "that good",
+			"boxState": "normal",
+			"portrait": "alejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "hey, why did you fall from the sky?",
+			"boxState": "normal",
+			"portrait": "GFAlejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "well, i had a fight with an enemy",
+			"boxState": "normal",
+			"portrait": "alejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "But, I still can't control my powers well",
+			"boxState": "normal",
+			"portrait": "alejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "BFAlejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "what?, a rap battle",
+			"boxState": "normal",
+			"portrait": "alejo",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused2",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "alejo",
+			"speed": 0.14
+		},
+		{
+			"expression": "talk",
+			"text": "Okay",
+			"boxState": "normal",
+			"portrait": "alejo",
+			"speed": 0.05
+		}
+	]
+}
